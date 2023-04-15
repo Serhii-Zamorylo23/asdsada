@@ -5,6 +5,7 @@ footer{
     background: rgba(197, 1, 10, 1);
 }
 .header{
+    display: flex;
     margin-top: 37px;
     height: 333px;
     width: 1154px;
@@ -17,4 +18,16 @@ footer{
     width: 196px;
     height: 72px;
     color: white;
+}
+.Copy{
+    margin-top: 178px;
+    color: white;
+}
+.colm2{
+    margin-left: 240px;
+    width: 74px;
+    height: 162px;
+}
+.co{
+    margin-left: 300px;
 }
