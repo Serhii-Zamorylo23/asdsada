@@ -25,9 +25,22 @@ footer{
 }
 .colm2{
     margin-left: 240px;
-    width: 74px;
-    height: 162px;
+    width: 84px;
+    height: 210px;
+    color: #fff;
+    flex-wrap: nowrap;
 }
 .co{
     margin-left: 300px;
+}
+.colm3{
+    margin-left: 160px;
+    color: #fff;
+}
+.Contacts{
+    margin-left: 160px;
+    margin-top: 20px;
+    width: 255px;
+    height: 104px;
+    color: #fff;
 }
